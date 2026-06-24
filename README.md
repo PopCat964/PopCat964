@@ -1,16 +1,34 @@
 ## Hi there 👋
+# Muhammad Taaha
 
-<!--
-**PopCat964/PopCat964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school STEM student from Pakistan.
 
-Here are some ideas to get you started:
+Currently interested in:
+- 🔬 Physics
+- 📐 Mathematics
+- 🤖 Robotics
+- 💻 Programming
+- 🧠 Machine Learning
+- ⚡ Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Physics Olympiads
+- Research & STEM competitions
+- Robotics projects
+- Learning ML for future research
+- Building things instead of just reading about them
+
+## Philosophy
+
+> If there's a formula, I want to derive it.
+>
+> If there's a machine, I want to build it.
+>
+> If there's a problem, I want to solve it.
+
+```python
+while curious:
+    learn()
+    build()
+    question_everything()
