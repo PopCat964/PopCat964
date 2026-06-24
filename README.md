@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Muhammad Taaha
 
-High school STEM student from Pakistan.
+High school STEM student from Pakistan (A Levels).
 
 Currently interested in:
 - 🔬 Physics
