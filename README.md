@@ -16,18 +16,4 @@ Currently interested in:
 - Research & STEM competitions
 - Robotics projects
 - Learning ML for future research
-- Building things instead of just reading about them
-
-## Philosophy
-
-> If there's a formula, I want to derive it.
->
-> If there's a machine, I want to build it.
->
-> If there's a problem, I want to solve it.
-
-```python
-while curious:
-    learn()
-    build()
-    question_everything()
+- **Unfortunately have to focus more on other things rn, will be back to building soon** 
