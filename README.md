@@ -7,9 +7,8 @@ Currently interested in:
 - 🔬 Physics
 - 📐 Mathematics
 - 🤖 Robotics
-- 💻 Programming
 - 🧠 Machine Learning
-- ⚡ Electronics
+- Learning all of the above!
 
 ## Current Focus
 
